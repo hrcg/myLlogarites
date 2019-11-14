@@ -1,6 +1,7 @@
 # myLlogarites
 
-![Example] (https://media.giphy.com/media/VCPvSOhlOPVRX8V228/giphy.gif)
+<img src="example.gif" width="450">
+<hr>
 
 ## Quickstart
 Run this simple calculator in a python shell.
