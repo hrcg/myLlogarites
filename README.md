@@ -1,6 +1,6 @@
 # myLlogarites
 
-<img src="./images/example.gif" width="450">
+<img src="./images/example.gif" width="250">
 <hr>
 
 ## Quickstart
